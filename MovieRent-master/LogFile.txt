@@ -1,0 +1,45 @@
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:35:48
+Error Message: User not found! User Email = admin@email.com is not present in Database
+===========End============= 13/03/2023 16:35:48
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:35:48
+Error Message: Login not Successfull for Email : admin@email.com
+===========End============= 13/03/2023 16:35:48
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:35:49
+Error Message: User not found! User Email = admin@email.com is not present in Database
+===========End============= 13/03/2023 16:35:49
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:35:49
+Error Message: Login not Successfull for Email : admin@email.com
+===========End============= 13/03/2023 16:35:49
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:36:41
+Error Message: User not found! User Email = admin@gmail.com is not present in Database
+===========End============= 13/03/2023 16:36:41
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:36:41
+Error Message: Login not Successfull for Email : admin@gmail.com
+===========End============= 13/03/2023 16:36:41
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:36:52
+Error Message: User not found! User Email = admin@gmail.com is not present in Database
+===========End============= 13/03/2023 16:36:52
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:36:52
+Error Message: Login not Successfull for Email : admin@gmail.com
+===========End============= 13/03/2023 16:36:52
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:38:17
+Error Message: User not found! User Email = admin@gmail.com is not present in Database
+===========End============= 13/03/2023 16:38:17
+=============Error Logging ===========
+===========Start============= 13/03/2023 16:38:17
+Error Message: Login not Successfull for Email : admin@gmail.com
+===========End============= 13/03/2023 16:38:17
+=============Error Logging ===========
+===========Start============= 13/03/2023 19:35:00
+Error Message: Object reference not set to an instance of an object.
+Stack Trace:    at MovieRent.Web.Services.MoviesService.UpdateMovie(UpdateMoviesDTO Movie) in C:\Users\Ryiu\Downloads\Sayan project\MovieRent-master\MovieRent.Web\Services\MoviesService.cs:line 94
+===========End============= 13/03/2023 19:35:00
